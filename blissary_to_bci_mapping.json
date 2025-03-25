@@ -5842,7 +5842,7 @@
   {
     "blissaryId": 1170,
     "bciAvId": 12331,
-    "blissSvgBuilderCode": "B313/K:-2/B516/B1162"
+    "blissSvgBuilderCode": "B313/RK:-2/B516/B1162"
   },
   {
     "blissaryId": 1171,
@@ -5887,12 +5887,12 @@
   {
     "blissaryId": 1179,
     "bciAvId": 12345,
-    "blissSvgBuilderCode": "B485/B551/K:-2/B382"
+    "blissSvgBuilderCode": "B485/B551/RK:-2/B382"
   },
   {
     "blissaryId": 1180,
     "bciAvId": 12346,
-    "blissSvgBuilderCode": "B485;B81/B551/K:-2/B382"
+    "blissSvgBuilderCode": "B485;B81/B551/RK:-2/B382"
   },
   {
     "blissaryId": 1181,
@@ -5902,7 +5902,7 @@
   {
     "blissaryId": 1182,
     "bciAvId": 12349,
-    "blissSvgBuilderCode": "B258/B109/B10/K:-1/B11"
+    "blissSvgBuilderCode": "B258/B109/B10/RK:-1/B11"
   },
   {
     "blissaryId": 1183,
@@ -5977,7 +5977,7 @@
   {
     "blissaryId": 1197,
     "bciAvId": 12375,
-    "blissSvgBuilderCode": "B729/K:-2/B355"
+    "blissSvgBuilderCode": "B729/RK:-2/B355"
   },
   {
     "blissaryId": 1198,
@@ -6127,12 +6127,12 @@
   {
     "blissaryId": 1227,
     "bciAvId": 12581,
-    "blissSvgBuilderCode": "B840/K:-2/B313"
+    "blissSvgBuilderCode": "B840/RK:-2/B313"
   },
   {
     "blissaryId": 1228,
     "bciAvId": 12582,
-    "blissSvgBuilderCode": "B392/B840;B97/K:-2/B313"
+    "blissSvgBuilderCode": "B392/B840;B97/RK:-2/B313"
   },
   {
     "blissaryId": 1229,
@@ -6142,12 +6142,12 @@
   {
     "blissaryId": 1230,
     "bciAvId": 12584,
-    "blissSvgBuilderCode": "B206/K:-2/B473/B457"
+    "blissSvgBuilderCode": "B206/RK:-2/B473/B457"
   },
   {
     "blissaryId": 1231,
     "bciAvId": 12585,
-    "blissSvgBuilderCode": "B206;B81/K:-2/B473/B457"
+    "blissSvgBuilderCode": "B206;B81/RK:-2/B473/B457"
   },
   {
     "blissaryId": 1232,
@@ -6247,7 +6247,7 @@
   {
     "blissaryId": 1251,
     "bciAvId": 12617,
-    "blissSvgBuilderCode": "B106/K:-2/B1082"
+    "blissSvgBuilderCode": "B106/RK:-2/B1082"
   },
   {
     "blissaryId": 1252,
@@ -6332,7 +6332,7 @@
   {
     "blissaryId": 1268,
     "bciAvId": 12641,
-    "blissSvgBuilderCode": "B106/K:-2/B1016/B153"
+    "blissSvgBuilderCode": "B106/RK:-2/B1016/B153"
   },
   {
     "blissaryId": 1269,
@@ -6397,12 +6397,12 @@
   {
     "blissaryId": 1281,
     "bciAvId": 12660,
-    "blissSvgBuilderCode": "B313/K:-2/B1048"
+    "blissSvgBuilderCode": "B313/RK:-2/B1048"
   },
   {
     "blissaryId": 1282,
     "bciAvId": 12661,
-    "blissSvgBuilderCode": "B313;B81/K:-2/B1048"
+    "blissSvgBuilderCode": "B313;B81/RK:-2/B1048"
   },
   {
     "blissaryId": 1283,
@@ -6867,7 +6867,7 @@
   {
     "blissaryId": 1375,
     "bciAvId": 13122,
-    "blissSvgBuilderCode": "B497;B99/B106/K:-2/B313/B678"
+    "blissSvgBuilderCode": "B497;B99/B106/RK:-2/B313/B678"
   },
   {
     "blissaryId": 1376,
@@ -6932,7 +6932,7 @@
   {
     "blissaryId": 1388,
     "bciAvId": 13144,
-    "blissSvgBuilderCode": "B10/K:-1/B9/K:-1/B9/B716"
+    "blissSvgBuilderCode": "B10/RK:-1/B9/RK:-1/B9/B716"
   },
   {
     "blissaryId": 1389,
@@ -7332,7 +7332,7 @@
   {
     "blissaryId": 1468,
     "bciAvId": 13421,
-    "blissSvgBuilderCode": "B513/B485/B551/K:-2/B382"
+    "blissSvgBuilderCode": "B513/B485/B551/RK:-2/B382"
   },
   {
     "blissaryId": 1469,
@@ -7362,12 +7362,12 @@
   {
     "blissaryId": 1474,
     "bciAvId": 13431,
-    "blissSvgBuilderCode": "B840/K:-2/B374"
+    "blissSvgBuilderCode": "B840/RK:-2/B374"
   },
   {
     "blissaryId": 1475,
     "bciAvId": 13432,
-    "blissSvgBuilderCode": "B313/K:-2/B516/B718"
+    "blissSvgBuilderCode": "B313/RK:-2/B516/B718"
   },
   {
     "blissaryId": 1476,
@@ -7562,12 +7562,12 @@
   {
     "blissaryId": 1514,
     "bciAvId": 13646,
-    "blissSvgBuilderCode": "B10/K:-1/B9/B716"
+    "blissSvgBuilderCode": "B10/RK:-1/B9/B716"
   },
   {
     "blissaryId": 1515,
     "bciAvId": 13647,
-    "blissSvgBuilderCode": "B452/B10/K:-1/B11"
+    "blissSvgBuilderCode": "B452/B10/RK:-1/B11"
   },
   {
     "blissaryId": 1516,
@@ -7887,7 +7887,7 @@
   {
     "blissaryId": 1579,
     "bciAvId": 13891,
-    "blissSvgBuilderCode": "B355/B10/K:-1/B9/B374"
+    "blissSvgBuilderCode": "B355/B10/RK:-1/B9/B374"
   },
   {
     "blissaryId": 1580,
@@ -8287,7 +8287,7 @@
   {
     "blissaryId": 1659,
     "bciAvId": 14174,
-    "blissSvgBuilderCode": "B106/K:-2/B1092"
+    "blissSvgBuilderCode": "B106/RK:-2/B1092"
   },
   {
     "blissaryId": 1660,
@@ -8682,7 +8682,7 @@
   {
     "blissaryId": 1738,
     "bciAvId": 14453,
-    "blissSvgBuilderCode": "B106/K:-2/B1092/B1010"
+    "blissSvgBuilderCode": "B106/RK:-2/B1092/B1010"
   },
   {
     "blissaryId": 1739,
@@ -8872,7 +8872,7 @@
   {
     "blissaryId": 1776,
     "bciAvId": 14672,
-    "blissSvgBuilderCode": "B840;B97/K:-2/B374"
+    "blissSvgBuilderCode": "B840;B97/RK:-2/B374"
   },
   {
     "blissaryId": 1777,
@@ -8917,7 +8917,7 @@
   {
     "blissaryId": 1785,
     "bciAvId": 14681,
-    "blissSvgBuilderCode": "B411/K:-2/B357"
+    "blissSvgBuilderCode": "B411/RK:-2/B357"
   },
   {
     "blissaryId": 1786,
@@ -9017,7 +9017,7 @@
   {
     "blissaryId": 1805,
     "bciAvId": 14709,
-    "blissSvgBuilderCode": "B313/K:-2/B245"
+    "blissSvgBuilderCode": "B313/RK:-2/B245"
   },
   {
     "blissaryId": 1806,
@@ -9082,12 +9082,12 @@
   {
     "blissaryId": 1818,
     "bciAvId": 14887,
-    "blissSvgBuilderCode": "B313/K:-2/B1014"
+    "blissSvgBuilderCode": "B313/RK:-2/B1014"
   },
   {
     "blissaryId": 1819,
     "bciAvId": 14888,
-    "blissSvgBuilderCode": "B313/K:-2/B1015"
+    "blissSvgBuilderCode": "B313/RK:-2/B1015"
   },
   {
     "blissaryId": 1820,
@@ -9182,7 +9182,7 @@
   {
     "blissaryId": 1838,
     "bciAvId": 14913,
-    "blissSvgBuilderCode": "B313;B81/K:-2/B516"
+    "blissSvgBuilderCode": "B313;B81/RK:-2/B516"
   },
   {
     "blissaryId": 1839,
@@ -9212,7 +9212,7 @@
   {
     "blissaryId": 1844,
     "bciAvId": 14922,
-    "blissSvgBuilderCode": "B106/K:-2/B1093/B394"
+    "blissSvgBuilderCode": "B106/RK:-2/B1093/B394"
   },
   {
     "blissaryId": 1845,
@@ -9287,7 +9287,7 @@
   {
     "blissaryId": 1859,
     "bciAvId": 14942,
-    "blissSvgBuilderCode": "B206;B81/B313/K:-2/B516"
+    "blissSvgBuilderCode": "B206;B81/B313/RK:-2/B516"
   },
   {
     "blissaryId": 1860,
@@ -9472,7 +9472,7 @@
   {
     "blissaryId": 1896,
     "bciAvId": 15149,
-    "blissSvgBuilderCode": "B313;B86/K:-2/B382"
+    "blissSvgBuilderCode": "B313;B86/RK:-2/B382"
   },
   {
     "blissaryId": 1897,
@@ -10142,7 +10142,7 @@
   {
     "blissaryId": 2030,
     "bciAvId": 15655,
-    "blissSvgBuilderCode": "B258/B158/B10/K:-1/B11"
+    "blissSvgBuilderCode": "B258/B158/B10/RK:-1/B11"
   },
   {
     "blissaryId": 2031,
@@ -10367,7 +10367,7 @@
   {
     "blissaryId": 2075,
     "bciAvId": 15716,
-    "blissSvgBuilderCode": "B716/K:-2/B648"
+    "blissSvgBuilderCode": "B716/RK:-2/B648"
   },
   {
     "blissaryId": 2076,
@@ -10442,7 +10442,7 @@
   {
     "blissaryId": 2090,
     "bciAvId": 15735,
-    "blissSvgBuilderCode": "B452/B10/K:-1/B10"
+    "blissSvgBuilderCode": "B452/B10/RK:-1/B10"
   },
   {
     "blissaryId": 2091,
@@ -10482,7 +10482,7 @@
   {
     "blissaryId": 2098,
     "bciAvId": 15910,
-    "blissSvgBuilderCode": "B452/B10/K:-1/B9"
+    "blissSvgBuilderCode": "B452/B10/RK:-1/B9"
   },
   {
     "blissaryId": 2099,
@@ -10617,12 +10617,12 @@
   {
     "blissaryId": 2125,
     "bciAvId": 15954,
-    "blissSvgBuilderCode": "B313/K:-2/B516"
+    "blissSvgBuilderCode": "B313/RK:-2/B516"
   },
   {
     "blissaryId": 2126,
     "bciAvId": 15955,
-    "blissSvgBuilderCode": "B313;B86/K:-2/B516"
+    "blissSvgBuilderCode": "B313;B86/RK:-2/B516"
   },
   {
     "blissaryId": 2127,
@@ -10652,7 +10652,7 @@
   {
     "blissaryId": 2132,
     "bciAvId": 15963,
-    "blissSvgBuilderCode": "B163/K:-2/B457/B5/B956"
+    "blissSvgBuilderCode": "B163/RK:-2/B457/B5/B956"
   },
   {
     "blissaryId": 2133,
@@ -10667,7 +10667,7 @@
   {
     "blissaryId": 2135,
     "bciAvId": 15970,
-    "blissSvgBuilderCode": "B163/K:-2/B457"
+    "blissSvgBuilderCode": "B163/RK:-2/B457"
   },
   {
     "blissaryId": 2136,
@@ -10802,7 +10802,7 @@
   {
     "blissaryId": 2162,
     "bciAvId": 16183,
-    "blissSvgBuilderCode": "B106/K:-2/B1016/B639"
+    "blissSvgBuilderCode": "B106/RK:-2/B1016/B639"
   },
   {
     "blissaryId": 2163,
@@ -10837,12 +10837,12 @@
   {
     "blissaryId": 2169,
     "bciAvId": 16199,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B678"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B678"
   },
   {
     "blissaryId": 2170,
     "bciAvId": 16200,
-    "blissSvgBuilderCode": "B106;B81/K:-2/B313/B678"
+    "blissSvgBuilderCode": "B106;B81/RK:-2/B313/B678"
   },
   {
     "blissaryId": 2171,
@@ -10852,12 +10852,12 @@
   {
     "blissaryId": 2172,
     "bciAvId": 16202,
-    "blissSvgBuilderCode": "B531/B106/K:-2/B313/B678"
+    "blissSvgBuilderCode": "B531/B106/RK:-2/B313/B678"
   },
   {
     "blissaryId": 2173,
     "bciAvId": 16203,
-    "blissSvgBuilderCode": "B572/B106/K:-2/B313/B678"
+    "blissSvgBuilderCode": "B572/B106/RK:-2/B313/B678"
   },
   {
     "blissaryId": 2174,
@@ -11077,7 +11077,7 @@
   {
     "blissaryId": 2217,
     "bciAvId": 16425,
-    "blissSvgBuilderCode": "B969/B313/K:-2/B347"
+    "blissSvgBuilderCode": "B969/B313/RK:-2/B347"
   },
   {
     "blissaryId": 2218,
@@ -11107,7 +11107,7 @@
   {
     "blissaryId": 2223,
     "bciAvId": 16433,
-    "blissSvgBuilderCode": "B220/B840/K:-2/B374"
+    "blissSvgBuilderCode": "B220/B840/RK:-2/B374"
   },
   {
     "blissaryId": 2224,
@@ -11297,12 +11297,12 @@
   {
     "blissaryId": 2261,
     "bciAvId": 16483,
-    "blissSvgBuilderCode": "B313/K:-2/B247"
+    "blissSvgBuilderCode": "B313/RK:-2/B247"
   },
   {
     "blissaryId": 2262,
     "bciAvId": 16484,
-    "blissSvgBuilderCode": "B313;B86/K:-2/B247"
+    "blissSvgBuilderCode": "B313;B86/RK:-2/B247"
   },
   {
     "blissaryId": 2263,
@@ -11652,7 +11652,7 @@
   {
     "blissaryId": 2332,
     "bciAvId": 16737,
-    "blissSvgBuilderCode": "B478/K:-2/B554"
+    "blissSvgBuilderCode": "B478/RK:-2/B554"
   },
   {
     "blissaryId": 2333,
@@ -11802,7 +11802,7 @@
   {
     "blissaryId": 2362,
     "bciAvId": 16933,
-    "blissSvgBuilderCode": "B313/K:-2/B347"
+    "blissSvgBuilderCode": "B313/RK:-2/B347"
   },
   {
     "blissaryId": 2363,
@@ -11987,12 +11987,12 @@
   {
     "blissaryId": 2399,
     "bciAvId": 16979,
-    "blissSvgBuilderCode": "B509/K:-2/B464"
+    "blissSvgBuilderCode": "B509/RK:-2/B464"
   },
   {
     "blissaryId": 2400,
     "bciAvId": 16980,
-    "blissSvgBuilderCode": "B660/B509/K:-2/B464"
+    "blissSvgBuilderCode": "B660/B509/RK:-2/B464"
   },
   {
     "blissaryId": 2401,
@@ -12272,7 +12272,7 @@
   {
     "blissaryId": 2456,
     "bciAvId": 17211,
-    "blissSvgBuilderCode": "B163/K:-2/B457/B462"
+    "blissSvgBuilderCode": "B163/RK:-2/B457/B462"
   },
   {
     "blissaryId": 2457,
@@ -12707,7 +12707,7 @@
   {
     "blissaryId": 2543,
     "bciAvId": 17492,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B678/B639"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B678/B639"
   },
   {
     "blissaryId": 2544,
@@ -12732,7 +12732,7 @@
   {
     "blissaryId": 2548,
     "bciAvId": 17499,
-    "blissSvgBuilderCode": "B115/K:-2/B680"
+    "blissSvgBuilderCode": "B115/RK:-2/B680"
   },
   {
     "blissaryId": 2549,
@@ -12797,7 +12797,7 @@
   {
     "blissaryId": 2561,
     "bciAvId": 17515,
-    "blissSvgBuilderCode": "B106;B81/K:-2/B313/B723"
+    "blissSvgBuilderCode": "B106;B81/RK:-2/B313/B723"
   },
   {
     "blissaryId": 2562,
@@ -12812,12 +12812,12 @@
   {
     "blissaryId": 2564,
     "bciAvId": 17521,
-    "blissSvgBuilderCode": "B329/B655/B10/K:-1/B9"
+    "blissSvgBuilderCode": "B329/B655/B10/RK:-1/B9"
   },
   {
     "blissaryId": 2565,
     "bciAvId": 17522,
-    "blissSvgBuilderCode": "B106/K:-2/B1016"
+    "blissSvgBuilderCode": "B106/RK:-2/B1016"
   },
   {
     "blissaryId": 2566,
@@ -12847,7 +12847,7 @@
   {
     "blissaryId": 2571,
     "bciAvId": 17528,
-    "blissSvgBuilderCode": "B553/B332/K:-2/B297"
+    "blissSvgBuilderCode": "B553/B332/RK:-2/B297"
   },
   {
     "blissaryId": 2572,
@@ -12912,7 +12912,7 @@
   {
     "blissaryId": 2584,
     "bciAvId": 17706,
-    "blissSvgBuilderCode": "B750/K:-2/B335/B513"
+    "blissSvgBuilderCode": "B750/RK:-2/B335/B513"
   },
   {
     "blissaryId": 2585,
@@ -13122,7 +13122,7 @@
   {
     "blissaryId": 2626,
     "bciAvId": 17763,
-    "blissSvgBuilderCode": "B651/B106/K:-2/B313/B678"
+    "blissSvgBuilderCode": "B651/B106/RK:-2/B313/B678"
   },
   {
     "blissaryId": 2627,
@@ -13802,7 +13802,7 @@
   {
     "blissaryId": 2763,
     "bciAvId": 18275,
-    "blissSvgBuilderCode": "B840;B97/K:-2/B313"
+    "blissSvgBuilderCode": "B840;B97/RK:-2/B313"
   },
   {
     "blissaryId": 2764,
@@ -14587,12 +14587,12 @@
   {
     "blissaryId": 2920,
     "bciAvId": 21111,
-    "blissSvgBuilderCode": "B299/B532/B725/B102/K:-2/B710"
+    "blissSvgBuilderCode": "B299/B532/B725/B102/RK:-2/B710"
   },
   {
     "blissaryId": 2921,
     "bciAvId": 21112,
-    "blissSvgBuilderCode": "B299/B532/B725/B102/K:-2/B433"
+    "blissSvgBuilderCode": "B299/B532/B725/B102/RK:-2/B433"
   },
   {
     "blissaryId": 2922,
@@ -14702,12 +14702,12 @@
   {
     "blissaryId": 2943,
     "bciAvId": 21301,
-    "blissSvgBuilderCode": "B449/B313/K:-2/B1048/B355"
+    "blissSvgBuilderCode": "B449/B313/RK:-2/B1048/B355"
   },
   {
     "blissaryId": 2944,
     "bciAvId": 21302,
-    "blissSvgBuilderCode": "B313/K:-2/B1048/B248"
+    "blissSvgBuilderCode": "B313/RK:-2/B1048/B248"
   },
   {
     "blissaryId": 2945,
@@ -14797,12 +14797,12 @@
   {
     "blissaryId": 2962,
     "bciAvId": 21320,
-    "blissSvgBuilderCode": "B213;B81/B313/K:-2/B1048"
+    "blissSvgBuilderCode": "B213;B81/B313/RK:-2/B1048"
   },
   {
     "blissaryId": 2963,
     "bciAvId": 21321,
-    "blissSvgBuilderCode": "B213/B313/K:-2/B1048"
+    "blissSvgBuilderCode": "B213/B313/RK:-2/B1048"
   },
   {
     "blissaryId": 2964,
@@ -15257,7 +15257,7 @@
   {
     "blissaryId": 3054,
     "bciAvId": 21576,
-    "blissSvgBuilderCode": "B513/B958/B278/K:-2/B473/B465"
+    "blissSvgBuilderCode": "B513/B958/B278/RK:-2/B473/B465"
   },
   {
     "blissaryId": 3055,
@@ -15402,7 +15402,7 @@
   {
     "blissaryId": 3083,
     "bciAvId": 21606,
-    "blissSvgBuilderCode": "B106/K:-2/B374/B718"
+    "blissSvgBuilderCode": "B106/RK:-2/B374/B718"
   },
   {
     "blissaryId": 3084,
@@ -16817,7 +16817,7 @@
   {
     "blissaryId": 3366,
     "bciAvId": 22580,
-    "blissSvgBuilderCode": "B542/K:-2/B288"
+    "blissSvgBuilderCode": "B542/RK:-2/B288"
   },
   {
     "blissaryId": 3367,
@@ -17582,7 +17582,7 @@
   {
     "blissaryId": 3519,
     "bciAvId": 23054,
-    "blissSvgBuilderCode": "B11/K:-1/B13/B655/B8"
+    "blissSvgBuilderCode": "B11/RK:-1/B13/B655/B8"
   },
   {
     "blissaryId": 3520,
@@ -17737,7 +17737,7 @@
   {
     "blissaryId": 3550,
     "bciAvId": 23086,
-    "blissSvgBuilderCode": "B808/B13/K:-1/B11"
+    "blissSvgBuilderCode": "B808/B13/RK:-1/B11"
   },
   {
     "blissaryId": 3551,
@@ -17817,7 +17817,7 @@
   {
     "blissaryId": 3566,
     "bciAvId": 23104,
-    "blissSvgBuilderCode": "B12/K:-1/B9/B655/B7"
+    "blissSvgBuilderCode": "B12/RK:-1/B9/B655/B7"
   },
   {
     "blissaryId": 3567,
@@ -17827,12 +17827,12 @@
   {
     "blissaryId": 3568,
     "bciAvId": 23106,
-    "blissSvgBuilderCode": "B819/B840/K:-2/B374"
+    "blissSvgBuilderCode": "B819/B840/RK:-2/B374"
   },
   {
     "blissaryId": 3569,
     "bciAvId": 23107,
-    "blissSvgBuilderCode": "B412/B509/K:-2/B374"
+    "blissSvgBuilderCode": "B412/B509/RK:-2/B374"
   },
   {
     "blissaryId": 3570,
@@ -18037,7 +18037,7 @@
   {
     "blissaryId": 3610,
     "bciAvId": 23152,
-    "blissSvgBuilderCode": "B655/B8/B11/K:-1/B13"
+    "blissSvgBuilderCode": "B655/B8/B11/RK:-1/B13"
   },
   {
     "blissaryId": 3611,
@@ -18062,7 +18062,7 @@
   {
     "blissaryId": 3615,
     "bciAvId": 23157,
-    "blissSvgBuilderCode": "B655/B8/B10/K:-1/B11"
+    "blissSvgBuilderCode": "B655/B8/B10/RK:-1/B11"
   },
   {
     "blissaryId": 3616,
@@ -18152,12 +18152,12 @@
   {
     "blissaryId": 3633,
     "bciAvId": 23178,
-    "blissSvgBuilderCode": "B106;B81/K:-2/B111"
+    "blissSvgBuilderCode": "B106;B81/RK:-2/B111"
   },
   {
     "blissaryId": 3634,
     "bciAvId": 23179,
-    "blissSvgBuilderCode": "B106/K:-2/B111"
+    "blissSvgBuilderCode": "B106/RK:-2/B111"
   },
   {
     "blissaryId": 3635,
@@ -18187,7 +18187,7 @@
   {
     "blissaryId": 3640,
     "bciAvId": 23185,
-    "blissSvgBuilderCode": "B10/K:-1/B14/B655/B7"
+    "blissSvgBuilderCode": "B10/RK:-1/B14/B655/B7"
   },
   {
     "blissaryId": 3641,
@@ -18357,7 +18357,7 @@
   {
     "blissaryId": 3674,
     "bciAvId": 23222,
-    "blissSvgBuilderCode": "B503/K:-2/B629"
+    "blissSvgBuilderCode": "B503/RK:-2/B629"
   },
   {
     "blissaryId": 3675,
@@ -18437,7 +18437,7 @@
   {
     "blissaryId": 3690,
     "bciAvId": 23241,
-    "blissSvgBuilderCode": "B819/B651/B106/K:-2/B313/B678"
+    "blissSvgBuilderCode": "B819/B651/B106/RK:-2/B313/B678"
   },
   {
     "blissaryId": 3691,
@@ -18537,7 +18537,7 @@
   {
     "blissaryId": 3710,
     "bciAvId": 23411,
-    "blissSvgBuilderCode": "B939;B81/K:-2/B145"
+    "blissSvgBuilderCode": "B939;B81/RK:-2/B145"
   },
   {
     "blissaryId": 3711,
@@ -18637,7 +18637,7 @@
   {
     "blissaryId": 3730,
     "bciAvId": 23432,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B824"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B824"
   },
   {
     "blissaryId": 3731,
@@ -18652,7 +18652,7 @@
   {
     "blissaryId": 3733,
     "bciAvId": 23435,
-    "blissSvgBuilderCode": "B200/B547/K:-2/B509"
+    "blissSvgBuilderCode": "B200/B547/RK:-2/B509"
   },
   {
     "blissaryId": 3734,
@@ -18707,7 +18707,7 @@
   {
     "blissaryId": 3744,
     "bciAvId": 23449,
-    "blissSvgBuilderCode": "B532/B829/B106/K:-2/B313"
+    "blissSvgBuilderCode": "B532/B829/B106/RK:-2/B313"
   },
   {
     "blissaryId": 3745,
@@ -18967,7 +18967,7 @@
   {
     "blissaryId": 3796,
     "bciAvId": 23507,
-    "blissSvgBuilderCode": "Xa/Xb/Xc/K:-7/B81/K:3/B374"
+    "blissSvgBuilderCode": "Xa/Xb/Xc/RK:-7/B81/RK:3/B374"
   },
   {
     "blissaryId": 3797,
@@ -19267,7 +19267,7 @@
   {
     "blissaryId": 3856,
     "bciAvId": 23571,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B824/B478"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B824/B478"
   },
   {
     "blissaryId": 3857,
@@ -19312,7 +19312,7 @@
   {
     "blissaryId": 3865,
     "bciAvId": 23584,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B578"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B578"
   },
   {
     "blissaryId": 3866,
@@ -19467,7 +19467,7 @@
   {
     "blissaryId": 3896,
     "bciAvId": 23618,
-    "blissSvgBuilderCode": "B106/K:-2/B313"
+    "blissSvgBuilderCode": "B106/RK:-2/B313"
   },
   {
     "blissaryId": 3897,
@@ -19537,7 +19537,7 @@
   {
     "blissaryId": 3910,
     "bciAvId": 23636,
-    "blissSvgBuilderCode": "B776/K:-2/B565"
+    "blissSvgBuilderCode": "B776/RK:-2/B565"
   },
   {
     "blissaryId": 3911,
@@ -19577,12 +19577,12 @@
   {
     "blissaryId": 3918,
     "bciAvId": 23644,
-    "blissSvgBuilderCode": "B106/K:-2/B313/K:-2/B544/B629"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/RK:-2/B544/B629"
   },
   {
     "blissaryId": 3919,
     "bciAvId": 23645,
-    "blissSvgBuilderCode": "B651/B313/K:-2/B544/B629"
+    "blissSvgBuilderCode": "B651/B313/RK:-2/B544/B629"
   },
   {
     "blissaryId": 3920,
@@ -19637,12 +19637,12 @@
   {
     "blissaryId": 3930,
     "bciAvId": 23656,
-    "blissSvgBuilderCode": "B851/K:-2/B845"
+    "blissSvgBuilderCode": "B851/RK:-2/B845"
   },
   {
     "blissaryId": 3931,
     "bciAvId": 23657,
-    "blissSvgBuilderCode": "B268/K:-2/B371"
+    "blissSvgBuilderCode": "B268/RK:-2/B371"
   },
   {
     "blissaryId": 3932,
@@ -19677,7 +19677,7 @@
   {
     "blissaryId": 3938,
     "bciAvId": 23665,
-    "blissSvgBuilderCode": "Xa/Xb/Xc/K:-7/B81/K:3"
+    "blissSvgBuilderCode": "Xa/Xb/Xc/RK:-7/B81/RK:3"
   },
   {
     "blissaryId": 3939,
@@ -19702,7 +19702,7 @@
   {
     "blissaryId": 3943,
     "bciAvId": 23670,
-    "blissSvgBuilderCode": "B660/B206/K:-2/B106"
+    "blissSvgBuilderCode": "B660/B206/RK:-2/B106"
   },
   {
     "blissaryId": 3944,
@@ -19867,7 +19867,7 @@
   {
     "blissaryId": 3976,
     "bciAvId": 23707,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B695"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B695"
   },
   {
     "blissaryId": 3977,
@@ -20437,7 +20437,7 @@
   {
     "blissaryId": 4090,
     "bciAvId": 23919,
-    "blissSvgBuilderCode": "B313/K:-2/B106/B823"
+    "blissSvgBuilderCode": "B313/RK:-2/B106/B823"
   },
   {
     "blissaryId": 4091,
@@ -20807,7 +20807,7 @@
   {
     "blissaryId": 4164,
     "bciAvId": 24016,
-    "blissSvgBuilderCode": "B572/B553/B332/K:-2/B297"
+    "blissSvgBuilderCode": "B572/B553/B332/RK:-2/B297"
   },
   {
     "blissaryId": 4165,
@@ -20822,7 +20822,7 @@
   {
     "blissaryId": 4167,
     "bciAvId": 24019,
-    "blissSvgBuilderCode": "B604/B271/K:-2/B456"
+    "blissSvgBuilderCode": "B604/B271/RK:-2/B456"
   },
   {
     "blissaryId": 4168,
@@ -20842,12 +20842,12 @@
   {
     "blissaryId": 4171,
     "bciAvId": 24023,
-    "blissSvgBuilderCode": "B313;B86/K:-2/B245/B11/B117"
+    "blissSvgBuilderCode": "B313;B86/RK:-2/B245/B11/B117"
   },
   {
     "blissaryId": 4172,
     "bciAvId": 24024,
-    "blissSvgBuilderCode": "B313/K:-2/B245/B11/B117"
+    "blissSvgBuilderCode": "B313/RK:-2/B245/B11/B117"
   },
   {
     "blissaryId": 4173,
@@ -20957,7 +20957,7 @@
   {
     "blissaryId": 4194,
     "bciAvId": 24048,
-    "blissSvgBuilderCode": "B840/K:-2/B374/B458"
+    "blissSvgBuilderCode": "B840/RK:-2/B374/B458"
   },
   {
     "blissaryId": 4195,
@@ -20972,7 +20972,7 @@
   {
     "blissaryId": 4197,
     "bciAvId": 24052,
-    "blissSvgBuilderCode": "B487/B206/K:-2/B106"
+    "blissSvgBuilderCode": "B487/B206/RK:-2/B106"
   },
   {
     "blissaryId": 4198,
@@ -21097,7 +21097,7 @@
   {
     "blissaryId": 4222,
     "bciAvId": 24077,
-    "blissSvgBuilderCode": "B939;B81/K:-2/B516"
+    "blissSvgBuilderCode": "B939;B81/RK:-2/B516"
   },
   {
     "blissaryId": 4223,
@@ -21327,7 +21327,7 @@
   {
     "blissaryId": 4268,
     "bciAvId": 24125,
-    "blissSvgBuilderCode": "B313/K:-2/B1048/B878"
+    "blissSvgBuilderCode": "B313/RK:-2/B1048/B878"
   },
   {
     "blissaryId": 4269,
@@ -21337,7 +21337,7 @@
   {
     "blissaryId": 4270,
     "bciAvId": 24127,
-    "blissSvgBuilderCode": "B513/B313/K:-2/B1048/B878"
+    "blissSvgBuilderCode": "B513/B313/RK:-2/B1048/B878"
   },
   {
     "blissaryId": 4271,
@@ -21372,7 +21372,7 @@
   {
     "blissaryId": 4277,
     "bciAvId": 24134,
-    "blissSvgBuilderCode": "B840/K:-2/B374/B352"
+    "blissSvgBuilderCode": "B840/RK:-2/B374/B352"
   },
   {
     "blissaryId": 4278,
@@ -21467,12 +21467,12 @@
   {
     "blissaryId": 4296,
     "bciAvId": 24153,
-    "blissSvgBuilderCode": "B313;B86/K:-2/B1015/B1014"
+    "blissSvgBuilderCode": "B313;B86/RK:-2/B1015/B1014"
   },
   {
     "blissaryId": 4297,
     "bciAvId": 24154,
-    "blissSvgBuilderCode": "B313/K:-2/B1015/B1014"
+    "blissSvgBuilderCode": "B313/RK:-2/B1015/B1014"
   },
   {
     "blissaryId": 4298,
@@ -21637,7 +21637,7 @@
   {
     "blissaryId": 4330,
     "bciAvId": 24190,
-    "blissSvgBuilderCode": "B840/K:-2/B374/B814"
+    "blissSvgBuilderCode": "B840/RK:-2/B374/B814"
   },
   {
     "blissaryId": 4331,
@@ -21667,7 +21667,7 @@
   {
     "blissaryId": 4336,
     "bciAvId": 24197,
-    "blissSvgBuilderCode": "B840/K:-2/B374/B533"
+    "blissSvgBuilderCode": "B840/RK:-2/B374/B533"
   },
   {
     "blissaryId": 4337,
@@ -21697,7 +21697,7 @@
   {
     "blissaryId": 4342,
     "bciAvId": 24204,
-    "blissSvgBuilderCode": "B840/K:-2/B374/B497"
+    "blissSvgBuilderCode": "B840/RK:-2/B374/B497"
   },
   {
     "blissaryId": 4343,
@@ -21942,7 +21942,7 @@
   {
     "blissaryId": 4391,
     "bciAvId": 24259,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B678/B347"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B678/B347"
   },
   {
     "blissaryId": 4392,
@@ -22167,7 +22167,7 @@
   {
     "blissaryId": 4436,
     "bciAvId": 24308,
-    "blissSvgBuilderCode": "B840/K:-2/B374/B228"
+    "blissSvgBuilderCode": "B840/RK:-2/B374/B228"
   },
   {
     "blissaryId": 4437,
@@ -22307,7 +22307,7 @@
   {
     "blissaryId": 4464,
     "bciAvId": 24339,
-    "blissSvgBuilderCode": "B840/K:-2/B374/B666"
+    "blissSvgBuilderCode": "B840/RK:-2/B374/B666"
   },
   {
     "blissaryId": 4465,
@@ -22467,7 +22467,7 @@
   {
     "blissaryId": 4496,
     "bciAvId": 24432,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B899"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B899"
   },
   {
     "blissaryId": 4497,
@@ -22477,12 +22477,12 @@
   {
     "blissaryId": 4498,
     "bciAvId": 24434,
-    "blissSvgBuilderCode": "B513/B467/K:-2/B216/B447"
+    "blissSvgBuilderCode": "B513/B467/RK:-2/B216/B447"
   },
   {
     "blissaryId": 4499,
     "bciAvId": 24435,
-    "blissSvgBuilderCode": "B516/B467/K:-2/B216/B447"
+    "blissSvgBuilderCode": "B516/B467/RK:-2/B216/B447"
   },
   {
     "blissaryId": 4500,
@@ -22632,7 +22632,7 @@
   {
     "blissaryId": 4529,
     "bciAvId": 24468,
-    "blissSvgBuilderCode": "B206;B81/K:-2/B516/B894;B97/B956"
+    "blissSvgBuilderCode": "B206;B81/RK:-2/B516/B894;B97/B956"
   },
   {
     "blissaryId": 4530,
@@ -22677,7 +22677,7 @@
   {
     "blissaryId": 4538,
     "bciAvId": 24477,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B451/B478"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B451/B478"
   },
   {
     "blissaryId": 4539,
@@ -22982,7 +22982,7 @@
   {
     "blissaryId": 4599,
     "bciAvId": 24620,
-    "blissSvgBuilderCode": "B736/K:-2/B382"
+    "blissSvgBuilderCode": "B736/RK:-2/B382"
   },
   {
     "blissaryId": 4600,
@@ -23087,7 +23087,7 @@
   {
     "blissaryId": 4620,
     "bciAvId": 24642,
-    "blissSvgBuilderCode": "B313;B86/K:-2/B887"
+    "blissSvgBuilderCode": "B313;B86/RK:-2/B887"
   },
   {
     "blissaryId": 4621,
@@ -23132,12 +23132,12 @@
   {
     "blissaryId": 4629,
     "bciAvId": 24651,
-    "blissSvgBuilderCode": "B623;B81/K:-2/B456/B319"
+    "blissSvgBuilderCode": "B623;B81/RK:-2/B456/B319"
   },
   {
     "blissaryId": 4630,
     "bciAvId": 24652,
-    "blissSvgBuilderCode": "B623/K:-2/B456/B319"
+    "blissSvgBuilderCode": "B623/RK:-2/B456/B319"
   },
   {
     "blissaryId": 4631,
@@ -23172,7 +23172,7 @@
   {
     "blissaryId": 4637,
     "bciAvId": 24659,
-    "blissSvgBuilderCode": "B901/B106/K:-2/B313"
+    "blissSvgBuilderCode": "B901/B106/RK:-2/B313"
   },
   {
     "blissaryId": 4638,
@@ -23222,7 +23222,7 @@
   {
     "blissaryId": 4647,
     "bciAvId": 24684,
-    "blissSvgBuilderCode": "B695/K:-2/B456/B319"
+    "blissSvgBuilderCode": "B695/RK:-2/B456/B319"
   },
   {
     "blissaryId": 4648,
@@ -23302,7 +23302,7 @@
   {
     "blissaryId": 4663,
     "bciAvId": 24700,
-    "blissSvgBuilderCode": "B840;B97/K:-2/B313/B841"
+    "blissSvgBuilderCode": "B840;B97/RK:-2/B313/B841"
   },
   {
     "blissaryId": 4664,
@@ -23717,12 +23717,12 @@
   {
     "blissaryId": 4746,
     "bciAvId": 24813,
-    "blissSvgBuilderCode": "B313;B86/K:-2/B1014"
+    "blissSvgBuilderCode": "B313;B86/RK:-2/B1014"
   },
   {
     "blissaryId": 4747,
     "bciAvId": 24814,
-    "blissSvgBuilderCode": "B313;B86/K:-2/B1015"
+    "blissSvgBuilderCode": "B313;B86/RK:-2/B1015"
   },
   {
     "blissaryId": 4748,
@@ -23732,7 +23732,7 @@
   {
     "blissaryId": 4749,
     "bciAvId": 24816,
-    "blissSvgBuilderCode": "B106;B81/K:-2/B374/B718"
+    "blissSvgBuilderCode": "B106;B81/RK:-2/B374/B718"
   },
   {
     "blissaryId": 4750,
@@ -23992,7 +23992,7 @@
   {
     "blissaryId": 4801,
     "bciAvId": 24910,
-    "blissSvgBuilderCode": "B313;B86/K:-2/B245"
+    "blissSvgBuilderCode": "B313;B86/RK:-2/B245"
   },
   {
     "blissaryId": 4802,
@@ -24167,12 +24167,12 @@
   {
     "blissaryId": 4836,
     "bciAvId": 25006,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B301/B401/B401"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B301/B401/B401"
   },
   {
     "blissaryId": 4837,
     "bciAvId": 25007,
-    "blissSvgBuilderCode": "B106;B86/K:-2/B313/B301/B401/B401"
+    "blissSvgBuilderCode": "B106;B86/RK:-2/B313/B301/B401/B401"
   },
   {
     "blissaryId": 4838,
@@ -24512,7 +24512,7 @@
   {
     "blissaryId": 4905,
     "bciAvId": 25078,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B531/B583"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B531/B583"
   },
   {
     "blissaryId": 4906,
@@ -24687,17 +24687,17 @@
   {
     "blissaryId": 4940,
     "bciAvId": 25116,
-    "blissSvgBuilderCode": "B838/K:-2/B1049/B455"
+    "blissSvgBuilderCode": "B838/RK:-2/B1049/B455"
   },
   {
     "blissaryId": 4941,
     "bciAvId": 25117,
-    "blissSvgBuilderCode": "B838/K:-2/B1049/B312"
+    "blissSvgBuilderCode": "B838/RK:-2/B1049/B312"
   },
   {
     "blissaryId": 4942,
     "bciAvId": 25118,
-    "blissSvgBuilderCode": "B838/K:-2/B1049/XM"
+    "blissSvgBuilderCode": "B838/RK:-2/B1049/XM"
   },
   {
     "blissaryId": 4943,
@@ -25177,7 +25177,7 @@
   {
     "blissaryId": 5038,
     "bciAvId": 25223,
-    "blissSvgBuilderCode": "B106/K:-2/B374"
+    "blissSvgBuilderCode": "B106/RK:-2/B374"
   },
   {
     "blissaryId": 5039,
@@ -25607,7 +25607,7 @@
   {
     "blissaryId": 5124,
     "bciAvId": 25343,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B841"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B841"
   },
   {
     "blissaryId": 5125,
@@ -25787,7 +25787,7 @@
   {
     "blissaryId": 5160,
     "bciAvId": 25384,
-    "blissSvgBuilderCode": "B115;B81/K:-2/B680"
+    "blissSvgBuilderCode": "B115;B81/RK:-2/B680"
   },
   {
     "blissaryId": 5161,
@@ -26032,7 +26032,7 @@
   {
     "blissaryId": 5209,
     "bciAvId": 25446,
-    "blissSvgBuilderCode": "B416/K:-2/B216"
+    "blissSvgBuilderCode": "B416/RK:-2/B216"
   },
   {
     "blissaryId": 5210,
@@ -26047,7 +26047,7 @@
   {
     "blissaryId": 5212,
     "bciAvId": 25449,
-    "blissSvgBuilderCode": "B348/B993/K:-2/B216"
+    "blissSvgBuilderCode": "B348/B993/RK:-2/B216"
   },
   {
     "blissaryId": 5213,
@@ -26062,7 +26062,7 @@
   {
     "blissaryId": 5215,
     "bciAvId": 25452,
-    "blissSvgBuilderCode": "B993/K:-2/B216"
+    "blissSvgBuilderCode": "B993/RK:-2/B216"
   },
   {
     "blissaryId": 5216,
@@ -26107,7 +26107,7 @@
   {
     "blissaryId": 5224,
     "bciAvId": 25462,
-    "blissSvgBuilderCode": "B993/K:-2/B216/B368/B106"
+    "blissSvgBuilderCode": "B993/RK:-2/B216/B368/B106"
   },
   {
     "blissaryId": 5225,
@@ -26197,7 +26197,7 @@
   {
     "blissaryId": 5242,
     "bciAvId": 25481,
-    "blissSvgBuilderCode": "B993/K:-2/B216/B748/B711"
+    "blissSvgBuilderCode": "B993/RK:-2/B216/B748/B711"
   },
   {
     "blissaryId": 5243,
@@ -26262,17 +26262,17 @@
   {
     "blissaryId": 5255,
     "bciAvId": 25494,
-    "blissSvgBuilderCode": "B416/K:-2/B216/B473"
+    "blissSvgBuilderCode": "B416/RK:-2/B216/B473"
   },
   {
     "blissaryId": 5256,
     "bciAvId": 25495,
-    "blissSvgBuilderCode": "B416/K:-2/B216/B457"
+    "blissSvgBuilderCode": "B416/RK:-2/B216/B457"
   },
   {
     "blissaryId": 5257,
     "bciAvId": 25496,
-    "blissSvgBuilderCode": "B993/K:-2/B216/B695/B423"
+    "blissSvgBuilderCode": "B993/RK:-2/B216/B695/B423"
   },
   {
     "blissaryId": 5258,
@@ -26362,7 +26362,7 @@
   {
     "blissaryId": 5275,
     "bciAvId": 25654,
-    "blissSvgBuilderCode": "B513/B840/K:-2/B313"
+    "blissSvgBuilderCode": "B513/B840/RK:-2/B313"
   },
   {
     "blissaryId": 5276,
@@ -26647,7 +26647,7 @@
   {
     "blissaryId": 5332,
     "bciAvId": 25716,
-    "blissSvgBuilderCode": "B710/K:-2/B313/B120/B401"
+    "blissSvgBuilderCode": "B710/RK:-2/B313/B120/B401"
   },
   {
     "blissaryId": 5333,
@@ -26677,17 +26677,17 @@
   {
     "blissaryId": 5338,
     "bciAvId": 25722,
-    "blissSvgBuilderCode": "B840;B81/K:-2/B374"
+    "blissSvgBuilderCode": "B840;B81/RK:-2/B374"
   },
   {
     "blissaryId": 5339,
     "bciAvId": 25723,
-    "blissSvgBuilderCode": "B840;B97/K:-2/B374/B122"
+    "blissSvgBuilderCode": "B840;B97/RK:-2/B374/B122"
   },
   {
     "blissaryId": 5340,
     "bciAvId": 25724,
-    "blissSvgBuilderCode": "B840;B97/K:-2/B374/B513"
+    "blissSvgBuilderCode": "B840;B97/RK:-2/B374/B513"
   },
   {
     "blissaryId": 5341,
@@ -26822,7 +26822,7 @@
   {
     "blissaryId": 5367,
     "bciAvId": 25752,
-    "blissSvgBuilderCode": "B433/K:-2/B313/B120/B401"
+    "blissSvgBuilderCode": "B433/RK:-2/B313/B120/B401"
   },
   {
     "blissaryId": 5368,
@@ -26852,17 +26852,17 @@
   {
     "blissaryId": 5373,
     "bciAvId": 25758,
-    "blissSvgBuilderCode": "B206;B81/B313/K:-2/B106"
+    "blissSvgBuilderCode": "B206;B81/B313/RK:-2/B106"
   },
   {
     "blissaryId": 5374,
     "bciAvId": 25759,
-    "blissSvgBuilderCode": "B206;B86/B313/K:-2/B106"
+    "blissSvgBuilderCode": "B206;B86/B313/RK:-2/B106"
   },
   {
     "blissaryId": 5375,
     "bciAvId": 25760,
-    "blissSvgBuilderCode": "B206/B313/K:-2/B106"
+    "blissSvgBuilderCode": "B206/B313/RK:-2/B106"
   },
   {
     "blissaryId": 5376,
@@ -26997,7 +26997,7 @@
   {
     "blissaryId": 5402,
     "bciAvId": 25790,
-    "blissSvgBuilderCode": "B840;B97/K:-2/B313/B12/B611"
+    "blissSvgBuilderCode": "B840;B97/RK:-2/B313/B12/B611"
   },
   {
     "blissaryId": 5403,
@@ -28327,7 +28327,7 @@
   {
     "blissaryId": 5668,
     "bciAvId": 26154,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B829"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B829"
   },
   {
     "blissaryId": 5669,
@@ -28462,7 +28462,7 @@
   {
     "blissaryId": 5695,
     "bciAvId": 26182,
-    "blissSvgBuilderCode": "B313/K:-2/B516/B993/B329"
+    "blissSvgBuilderCode": "B313/RK:-2/B516/B993/B329"
   },
   {
     "blissaryId": 5696,
@@ -28612,17 +28612,17 @@
   {
     "blissaryId": 5725,
     "bciAvId": 26215,
-    "blissSvgBuilderCode": "B10/B655/K:-2/B503"
+    "blissSvgBuilderCode": "B10/B655/RK:-2/B503"
   },
   {
     "blissaryId": 5726,
     "bciAvId": 26216,
-    "blissSvgBuilderCode": "B106/K:-2/B313/B829/B228"
+    "blissSvgBuilderCode": "B106/RK:-2/B313/B829/B228"
   },
   {
     "blissaryId": 5727,
     "bciAvId": 26217,
-    "blissSvgBuilderCode": "B887/K:-2/B453"
+    "blissSvgBuilderCode": "B887/RK:-2/B453"
   },
   {
     "blissaryId": 5728,
@@ -28732,7 +28732,7 @@
   {
     "blissaryId": 5749,
     "bciAvId": 26239,
-    "blissSvgBuilderCode": "B716/K:-2/B392/B412"
+    "blissSvgBuilderCode": "B716/RK:-2/B392/B412"
   },
   {
     "blissaryId": 5750,
@@ -28792,7 +28792,7 @@
   {
     "blissaryId": 5761,
     "bciAvId": 26253,
-    "blissSvgBuilderCode": "B502/B716/K:-2/B392/B412"
+    "blissSvgBuilderCode": "B502/B716/RK:-2/B392/B412"
   },
   {
     "blissaryId": 5762,
@@ -28937,7 +28937,7 @@
   {
     "blissaryId": 5790,
     "bciAvId": 26293,
-    "blissSvgBuilderCode": "B284/B106/K:-2/B297/B958"
+    "blissSvgBuilderCode": "B284/B106/RK:-2/B297/B958"
   },
   {
     "blissaryId": 5791,
@@ -29012,7 +29012,7 @@
   {
     "blissaryId": 5805,
     "bciAvId": 26308,
-    "blissSvgBuilderCode": "B651/B372/K:1/B428;B97"
+    "blissSvgBuilderCode": "B651/B372/RK:1/B428;B97"
   },
   {
     "blissaryId": 5806,
@@ -29067,7 +29067,7 @@
   {
     "blissaryId": 5816,
     "bciAvId": 26319,
-    "blissSvgBuilderCode": "B200/B547/B106/K:-2/B335/B401"
+    "blissSvgBuilderCode": "B200/B547/B106/RK:-2/B335/B401"
   },
   {
     "blissaryId": 5817,
@@ -29127,12 +29127,12 @@
   {
     "blissaryId": 5829,
     "bciAvId": 26333,
-    "blissSvgBuilderCode": "B447;B86/B449/K:-2/B106"
+    "blissSvgBuilderCode": "B447;B86/B449/RK:-2/B106"
   },
   {
     "blissaryId": 5830,
     "bciAvId": 26334,
-    "blissSvgBuilderCode": "B447/B449/K:-2/B106"
+    "blissSvgBuilderCode": "B447/B449/RK:-2/B106"
   },
   {
     "blissaryId": 5831,
@@ -29217,7 +29217,7 @@
   {
     "blissaryId": 5847,
     "bciAvId": 27003,
-    "blissSvgBuilderCode": "B502/B414/B297/K:-2/B105"
+    "blissSvgBuilderCode": "B502/B414/B297/RK:-2/B105"
   },
   {
     "blissaryId": 5848,
@@ -29427,7 +29427,7 @@
   {
     "blissaryId": 5889,
     "bciAvId": 27048,
-    "blissSvgBuilderCode": "B414/B288/K:-2/B256"
+    "blissSvgBuilderCode": "B414/B288/RK:-2/B256"
   },
   {
     "blissaryId": 5890,
@@ -29582,7 +29582,7 @@
   {
     "blissaryId": 5921,
     "bciAvId": 27083,
-    "blissSvgBuilderCode": "B502/B1142/K:-2/B106/B608"
+    "blissSvgBuilderCode": "B502/B1142/RK:-2/B106/B608"
   },
   {
     "blissaryId": 5922,
@@ -29887,7 +29887,7 @@
   {
     "blissaryId": 5982,
     "bciAvId": 27145,
-    "blissSvgBuilderCode": "B993/K:-2/B216/B1142"
+    "blissSvgBuilderCode": "B993/RK:-2/B216/B1142"
   },
   {
     "blissaryId": 5983,
@@ -29917,7 +29917,7 @@
   {
     "blissaryId": 5988,
     "bciAvId": 27152,
-    "blissSvgBuilderCode": "B502/B414/K:-2/B105"
+    "blissSvgBuilderCode": "B502/B414/RK:-2/B105"
   },
   {
     "blissaryId": 5989,
@@ -30477,7 +30477,7 @@
   {
     "blissaryId": 6111,
     "bciAvId": 29024,
-    "blissSvgBuilderCode": "B894;B97/B956/B963/B798/B10/K:-1/B18"
+    "blissSvgBuilderCode": "B894;B97/B956/B963/B798/B10/RK:-1/B18"
   },
   {
     "blissaryId": 6112,
@@ -30507,7 +30507,7 @@
   {
     "blissaryId": 6117,
     "bciAvId": 29030,
-    "blissSvgBuilderCode": "B6168/B1094/B10/K:-1/B9"
+    "blissSvgBuilderCode": "B6168/B1094/B10/RK:-1/B9"
   },
   {
     "blissaryId": 6118,
@@ -30822,7 +30822,7 @@
   {
     "blissaryId": 6181,
     "bciAvId": 29094,
-    "blissSvgBuilderCode": "B258/B109/B10/K:-1/B11/B474"
+    "blissSvgBuilderCode": "B258/B109/B10/RK:-1/B11/B474"
   },
   {
     "blissaryId": 6182,
