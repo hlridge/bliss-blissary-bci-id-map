@@ -4,7 +4,7 @@
 A JSON mapping of Blissary IDs and BCI-AV IDs for Bliss language.
 
 ## License
-This data is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. For more details, see the [LICENSE](LICENSE) file in this repository or visit [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+This data is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. For more details, see the [LICENSE](LICENSE) file in this repository or visit [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Attribution
 ### Blissary
@@ -13,7 +13,7 @@ This data is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ### BCI-AV
 - **Author**: Blissymbolics Communication International
-- **Source**: [BCI Symbol Files](https://blissymbolics.org/index.php/symbol-files)
+- **Source**: [BCI-AV 2026](https://www.blissymbolics.org/index.php/bci-av-2026)
 
 ## Usage
 To use this data, you can import the JSON file into your project.
