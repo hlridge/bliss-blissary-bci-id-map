@@ -7,6 +7,8 @@ A JSON mapping of Blissary IDs and BCI-AV IDs for Bliss language.
 This data is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. For more details, see the [LICENSE](LICENSE) file in this repository or visit [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Attribution
+Credit it as: `Blissary.com (https://blissary.com/licence), CC BY 4.0`
+
 ### Blissary
 - **Author**: Hannes Ljusås
 - **Source**: [Blissary](https://blissary.com)
@@ -20,19 +22,19 @@ To use this data, you can import the JSON file into your project.
 
 ### ES Modules
 ```javascript
-import mapping from './path-to-json-file.json';
+import mapping from './blissary_to_bci_mapping.json';
 ```
 
 ### CommonJS
 
 ```javascript
-const mapping = require('./path-to-json-file.json');
+const mapping = require('./blissary_to_bci_mapping.json');
 ```
 
 ### Dynamically
 
 ```javascript
-fetch('https://raw.githubusercontent.com/hlridge/Bliss-Blissary-BCI-ID-Map/main/path-to-json-file.json')
+fetch('https://raw.githubusercontent.com/hlridge/Bliss-Blissary-BCI-ID-Map/main/blissary_to_bci_mapping.json')
   .then(response => response.json())
   .then(data => {
     // Do something with your data here
