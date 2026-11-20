@@ -26507,7 +26507,7 @@
   {
     "blissaryId": 5304,
     "bciAvId": 25684,
-    "blissSvgBuilderCode": "B432/B411/B357"
+    "blissSvgBuilderCode": "B432/B411/AK:0/B357"
   },
   {
     "blissaryId": 5305,
@@ -26802,7 +26802,7 @@
   {
     "blissaryId": 5363,
     "bciAvId": 25747,
-    "blissSvgBuilderCode": "B432/B411/B366"
+    "blissSvgBuilderCode": "B432/B411/AK:0/B366"
   },
   {
     "blissaryId": 5364,
@@ -29291,7 +29291,7 @@
   {
     "blissaryId": 5862,
     "bciAvId": 27019,
-    "blissSvgBuilderCode": "B416/B958/B622"
+    "blissSvgBuilderCode": "B416/AK:0/B216/B622"
   },
   {
     "blissaryId": 5863,
@@ -30860,7 +30860,7 @@
   {
     "blissaryId": 6192,
     "bciAvId": 29105,
-    "blissSvgBuilderCode": "B457;B81/B870"
+    "blissSvgBuilderCode": "B457;B81/B124/B868/B678"
   },
   {
     "blissaryId": 6193,
@@ -31460,7 +31460,7 @@
   {
     "blissaryId": 6316,
     "bciAvId": 29342,
-    "blissSvgBuilderCode": "B106/B1092/B1010/B956"
+    "blissSvgBuilderCode": "B106/AK:0/B1092/B1010/B956"
   },
   {
     "blissaryId": 6317,
@@ -31765,7 +31765,7 @@
   {
     "blissaryId": 6377,
     "bciAvId": 29545,
-    "blissSvgBuilderCode": "B411;B81/B366"
+    "blissSvgBuilderCode": "B411;B81/AK:0/B366"
   },
   {
     "blissaryId": 6378,
@@ -32762,5 +32762,9 @@
     "blissaryId": 6578,
     "bciAvId": 29880,
     "blissSvgBuilderCode": "B6443/B835/B829"
+  },
+  {
+    "blissaryId": 6579,
+    "blissSvgBuilderCode": "B6579"
   }
 ]
